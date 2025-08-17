@@ -1,0 +1,9 @@
+build/
+final_proj/bitstreams/
+test
+POA_basic/nuke_build.sh
+/logs
+.peers.ini
+final_proj/auto_scripts/cosim_myshit.sh
+final_proj/src_base_mengyao/extern_src/
+final_proj/src_demo/gene_data
